@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi there! I am Peter Yeung, a software engineer in Hong Kong👋
+
+🔭 I’m currently working on several projects
+
+- A NextJS application which stores the configuration for other services
+- An Electron App which supports entering banking and stocks portfolio
+
+
+🌱 I’m currently learning or deepening my understanding on
+
+- GRPC
+- Rust
+- Various algorithms 🤓
+
+✔ These are the languages I am familiar with
+
+- Javscript / Typescript (React, NodeJS)
+- Python
 
 <!--
 **yps1994/yps1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
